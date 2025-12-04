@@ -1,0 +1,8 @@
+flask
+opencv-python
+numpy
+scikit-learn
+bing-image-downloader
+requests
+tensorflow
+matplotlib
