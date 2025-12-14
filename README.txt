@@ -1,4 +1,5 @@
 Files:
+datasets: the folder containing the flower images
 class_names.txt :- names of all the flowers we have in our datasets\n
 flower_mdel.keras :- its is our ai model
 gui_app.py :- the python program for our gui (using wxPython)
